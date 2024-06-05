@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(48, 45, 51);
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+header{
+
+    text-align: center;
+    padding:20px;
+}
+.content{
+    
+    padding: 20px;
+    color: white;
+}
+h1,h2,p{
+    color: rgb(163, 112, 211);
+}
+main{
+    display:flex;
+    flex-wrap: wrap;
+    margin:10px;
+    padding:20px;
+}
+.box{
+    flex:1 0 200px;
+    text-align: justify;
+    color:white;
+    padding:10px;
+    border-style: broken;
+    border-color: white;
+    border-width: 1px;
+
+}
+.box-header{
+    padding:10px;
+    border-radius: 1;
+    border-width: 1px;
+    border-color: white;
+}
+pre{
+    border-radius:80;
+    border-color: rgb(124, 80, 165);
+    background-color: rgb(124, 80, 165);
+    color:white;
+    width:100%;
+    margin: 20px;
+    padding:30px;
+    align-items: center;
+ 
+}
+footer{
+    padding: 10px;
+    text-align:center;
+    font-weight: bold;
+}
+/*  reset css - get rid of everything and start over.*/
