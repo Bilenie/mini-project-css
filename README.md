@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Module 02 Mini-Project: CSS Snippet Cheat Sheet
 
 In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
@@ -54,3 +55,6 @@ The completed application should meet the following criteria:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# mini-project-css
+>>>>>>> origin/main
